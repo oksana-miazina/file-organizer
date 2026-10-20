@@ -1,0 +1,16 @@
+{
+  "name": "1_file-organizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "file-organizer.js",
+  "scripts": {
+    "scan": "node file-organizer.js scan",
+    "duplicates": "node file-organizer.js duplicates",
+    "organize": "node file-organizer.js organize",
+    "cleanup": "node file-organizer.js cleanup"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
